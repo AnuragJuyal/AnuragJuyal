@@ -1,5 +1,5 @@
 ### Hi there 👋
-<h4 align="center">My name is Anurag Juyal and I am currently pursuing B.Tech in Artificial Intelligence and Machine Learning.In addition to my academic studies, I regularly practice my coding skills through Leetcode question and online competitions.</h4>
+<h4 align="center">My name is Anurag Juyal and I am currently pursuing B.Tech in Artificial Intelligence and Machine Learning. In addition to my academic studies, I regularly practice my coding skills through Leetcode question and online competitions.</h4>
 <p align="center"> <img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/> </p>
 <br>
 
